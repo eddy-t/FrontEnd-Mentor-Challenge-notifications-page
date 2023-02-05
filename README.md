@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/notifications-page-with-flexbox-100-responsive-3Dsra_txvM
 - Live Site URL: https://www.eddytahibi.fr/projets/notifications-page
 
 ## My process
